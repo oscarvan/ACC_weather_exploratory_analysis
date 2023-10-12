@@ -1,0 +1,71 @@
+road_factor,years,active_claims,new_claims
+ATV,2011,20,10
+Cycling,2011,"2,470","1,708"
+Driving/Passenger - Bus,2011,730,574
+Driving/Passenger - Car,2011,"32,777","22,939"
+Driving/Passenger - Motorcycle,2011,"7,113","3,644"
+Driving/Passenger - Truck,2011,"1,044",481
+Driving/Passenger-Other Veh,2011,868,618
+Not Obtainable,2011,399,22
+Other,2011,196,150
+Pedestrian,2011,"3,341","2,153"
+ATV,2012,24,18
+Cycling,2012,"2,501","1,747"
+Driving/Passenger - Bus,2012,741,587
+Driving/Passenger - Car,2012,"32,004","22,412"
+Driving/Passenger - Motorcycle,2012,"6,933","3,524"
+Driving/Passenger - Truck,2012,990,494
+Driving/Passenger-Other Veh,2012,989,731
+Not Obtainable,2012,388,28
+Other,2012,231,177
+Pedestrian,2012,"3,115","1,963"
+ATV,2013,42,43
+Cycling,2013,"2,508","1,680"
+Driving/Passenger - Bus,2013,674,556
+Driving/Passenger - Car,2013,"32,970","23,057"
+Driving/Passenger - Motorcycle,2013,"7,099","3,687"
+Driving/Passenger - Truck,2013,"1,056",507
+Driving/Passenger-Other Veh,2013,"1,106",866
+Not Obtainable,2013,420,22
+Other,2013,273,205
+Pedestrian,2013,"3,051","1,822"
+ATV,2014,47,38
+Cycling,2014,"2,318","1,581"
+Driving/Passenger - Bus,2014,668,549
+Driving/Passenger - Car,2014,"31,661","23,234"
+Driving/Passenger - Motorcycle,2014,"7,247","3,753"
+Driving/Passenger - Truck,2014,991,497
+Driving/Passenger-Other Veh,2014,"1,062",819
+Not Obtainable,2014,377,20
+Other,2014,255,194
+Pedestrian,2014,"2,915","1,813"
+ATV,2015,49,50
+Cycling,2015,"2,283","1,632"
+Driving/Passenger - Bus,2015,742,668
+Driving/Passenger - Car,2015,"32,615","26,274"
+Driving/Passenger - Motorcycle,2015,"7,168","3,833"
+Driving/Passenger - Truck,2015,"1,070",581
+Driving/Passenger-Other Veh,2015,"1,191","1,021"
+Not Obtainable,2015,358,26
+Other,2015,240,181
+Pedestrian,2015,"2,874","1,879"
+ATV,2016,61,61
+Cycling,2016,"2,186","1,391"
+Driving/Passenger - Bus,2016,886,788
+Driving/Passenger - Car,2016,"33,705","26,552"
+Driving/Passenger - Motorcycle,2016,"7,410","4,057"
+Driving/Passenger - Truck,2016,"1,153",689
+Driving/Passenger-Other Veh,2016,"1,908","1,949"
+Not Obtainable,2016,396,108
+Other,2016,334,266
+Pedestrian,2016,"2,984","2,017"
+ATV,2017,52,45
+Cycling,2017,"2,182","1,461"
+Driving/Passenger - Bus,2017,767,587
+Driving/Passenger - Car,2017,"34,122","26,712"
+Driving/Passenger - Motorcycle,2017,"7,589","4,205"
+Driving/Passenger - Truck,2017,"1,111",613
+Driving/Passenger-Other Veh,2017,"2,584","2,581"
+Not Obtainable,2017,511,198
+Other,2017,282,210
+Pedestrian,2017,"3,004","1,984"

@@ -1,0 +1,71 @@
+road_factor,year,active_claims,New_claims
+ATV,2011,20,10
+ATV,2012,24,18
+ATV,2013,42,43
+ATV,2014,47,38
+ATV,2015,49,50
+ATV,2016,61,61
+ATV,2017,52,45
+Cycling,2011,2470,1708
+Cycling,2012,2501,1747
+Cycling,2013,2508,1680
+Cycling,2014,2318,1581
+Cycling,2015,2283,1632
+Cycling,2016,2186,1391
+Cycling,2017,2182,1461
+Driving/Passenger - Bus,2011,730,574
+Driving/Passenger - Bus,2012,741,587
+Driving/Passenger - Bus,2013,674,556
+Driving/Passenger - Bus,2014,668,549
+Driving/Passenger - Bus,2015,742,668
+Driving/Passenger - Bus,2016,886,788
+Driving/Passenger - Bus,2017,767,587
+Driving/Passenger - Car,2011,32777,22939
+Driving/Passenger - Car,2012,32004,22412
+Driving/Passenger - Car,2013,32970,23057
+Driving/Passenger - Car,2014,31661,23234
+Driving/Passenger - Car,2015,32615,26274
+Driving/Passenger - Car,2016,33705,26552
+Driving/Passenger - Car,2017,34122,26712
+Driving/Passenger - Motorcycle,2011,7113,3644
+Driving/Passenger - Motorcycle,2012,6933,3524
+Driving/Passenger - Motorcycle,2013,7099,3687
+Driving/Passenger - Motorcycle,2014,7247,3753
+Driving/Passenger - Motorcycle,2015,7168,3833
+Driving/Passenger - Motorcycle,2016,7410,4057
+Driving/Passenger - Motorcycle,2017,7589,4205
+Driving/Passenger - Truck,2011,1044,481
+Driving/Passenger - Truck,2012,990,494
+Driving/Passenger - Truck,2013,1056,507
+Driving/Passenger - Truck,2014,991,497
+Driving/Passenger - Truck,2015,1070,581
+Driving/Passenger - Truck,2016,1153,689
+Driving/Passenger - Truck,2017,1111,613
+Driving/Passenger-Other Veh,2011,868,618
+Driving/Passenger-Other Veh,2012,989,731
+Driving/Passenger-Other Veh,2013,1106,866
+Driving/Passenger-Other Veh,2014,1062,819
+Driving/Passenger-Other Veh,2015,1191,1021
+Driving/Passenger-Other Veh,2016,1908,1949
+Driving/Passenger-Other Veh,2017,2584,2581
+Not Obtainable,2011,399,22
+Not Obtainable,2012,388,28
+Not Obtainable,2013,420,22
+Not Obtainable,2014,377,20
+Not Obtainable,2015,358,26
+Not Obtainable,2016,396,108
+Not Obtainable,2017,511,198
+Other,2011,196,150
+Other,2012,231,177
+Other,2013,273,205
+Other,2014,255,194
+Other,2015,240,181
+Other,2016,334,266
+Other,2017,282,210
+Pedestrian,2011,3341,2153
+Pedestrian,2012,3115,1963
+Pedestrian,2013,3051,1822
+Pedestrian,2014,2915,1813
+Pedestrian,2015,2874,1879
+Pedestrian,2016,2984,2017
+Pedestrian,2017,3004,1984

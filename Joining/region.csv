@@ -1,0 +1,127 @@
+region,year,active_claims,New_claims
+Northland,2011,2168,1411
+Northland,2012,2296,1488
+Northland,2013,2301,1472
+Northland,2014,2228,1474
+Northland,2015,2293,1624
+Northland,2016,2504,1757
+Northland,2017,2636,1898
+Auckland,2011,13615,10461
+Auckland,2012,13612,10465
+Auckland,2013,14141,10767
+Auckland,2014,13694,10708
+Auckland,2015,14678,12277
+Auckland,2016,15674,12926
+Auckland,2017,15955,12787
+Waikato,2011,4954,3254
+Waikato,2012,5021,3281
+Waikato,2013,5149,3434
+Waikato,2014,5024,3480
+Waikato,2015,5093,3852
+Waikato,2016,5336,4162
+Waikato,2017,5695,4415
+Bay of Plenty,2011,2769,1931
+Bay of Plenty,2012,2775,1847
+Bay of Plenty,2013,2788,1905
+Bay of Plenty,2014,2613,1867
+Bay of Plenty,2015,2810,2284
+Bay of Plenty,2016,3019,2476
+Bay of Plenty,2017,3053,2404
+Gisborne,2011,472,312
+Gisborne,2012,482,331
+Gisborne,2013,490,344
+Gisborne,2014,482,352
+Gisborne,2015,442,356
+Gisborne,2016,526,411
+Gisborne,2017,521,368
+Hawkes Bay,2011,1846,1190
+Hawkes Bay,2012,1754,1109
+Hawkes Bay,2013,1810,1112
+Hawkes Bay,2014,1641,1062
+Hawkes Bay,2015,1623,1208
+Hawkes Bay,2016,1785,1324
+Hawkes Bay,2017,1763,1262
+Taranaki,2011,1115,828
+Taranaki,2012,1090,802
+Taranaki,2013,1104,770
+Taranaki,2014,1041,773
+Taranaki,2015,1041,828
+Taranaki,2016,1078,810
+Taranaki,2017,1149,896
+Manawatu-Wanganui,2011,2780,1739
+Manawatu-Wanganui,2012,2568,1599
+Manawatu-Wanganui,2013,2647,1629
+Manawatu-Wanganui,2014,2549,1720
+Manawatu-Wanganui,2015,2503,1792
+Manawatu-Wanganui,2016,2604,1829
+Manawatu-Wanganui,2017,2593,1945
+Wellington,2011,3706,2679
+Wellington,2012,3462,2492
+Wellington,2013,3465,2515
+Wellington,2014,3287,2383
+Wellington,2015,3213,2610
+Wellington,2016,3488,2825
+Wellington,2017,3640,2873
+Tasman,2011,359,246
+Tasman,2012,363,286
+Tasman,2013,372,276
+Tasman,2014,324,217
+Tasman,2015,329,246
+Tasman,2016,416,345
+Tasman,2017,375,281
+Nelson,2011,547,363
+Nelson,2012,538,352
+Nelson,2013,574,402
+Nelson,2014,543,395
+Nelson,2015,595,478
+Nelson,2016,636,480
+Nelson,2017,605,446
+Marlborough,2011,420,329
+Marlborough,2012,390,261
+Marlborough,2013,419,317
+Marlborough,2014,387,307
+Marlborough,2015,396,325
+Marlborough,2016,452,371
+Marlborough,2017,458,404
+Canterbury,2011,6613,4812
+Canterbury,2012,6341,4720
+Canterbury,2013,6601,4835
+Canterbury,2014,6430,4924
+Canterbury,2015,6242,5071
+Canterbury,2016,6111,4836
+Canterbury,2017,6191,5095
+West Coast,2011,476,346
+West Coast,2012,459,301
+West Coast,2013,477,322
+West Coast,2014,448,301
+West Coast,2015,460,377
+West Coast,2016,435,339
+West Coast,2017,462,374
+Otago,2011,2128,1479
+Otago,2012,2005,1442
+Otago,2013,2074,1450
+Otago,2014,2064,1516
+Otago,2015,2171,1672
+Otago,2016,2214,1806
+Otago,2017,2404,1955
+Southland,2011,945,677
+Southland,2012,931,627
+Southland,2013,901,618
+Southland,2014,859,692
+Southland,2015,891,775
+Southland,2016,882,749
+Southland,2017,1036,849
+Other,2011,417,242
+Other,2012,416,278
+Other,2013,456,277
+Other,2014,518,327
+Other,2015,547,370
+Other,2016,652,432
+Other,2017,618,344
+Unknown,2011,3628,NA
+Unknown,2012,3413,NA
+Unknown,2013,3430,NA
+Unknown,2014,3409,NA
+Unknown,2015,3263,NA
+Unknown,2016,3211,NA
+Unknown,2017,3050,NA
